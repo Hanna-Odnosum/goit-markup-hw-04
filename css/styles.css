@@ -303,7 +303,6 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 8px;
 }
 
 .team-title {
@@ -321,7 +320,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .icon-social {
@@ -452,7 +451,6 @@ img {
 
 .footer-container {
   display: flex;
-  justify-content: center;
   align-items: baseline;
 }
 
